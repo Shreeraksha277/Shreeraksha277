@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreeraksha Kulal
 
-🎓 3rd Semester Computer Science Engineering student at *Vidyavardhaka College of Engineering, Mysore*  
+🎓 4th Semester Computer Science Engineering student at *Vidyavardhaka College of Engineering, Mysore*  
 💻 Programming enthusiast learning *Java* & *C*  
 🌱 Currently building strong skills in Data Structures & Algorithms (DSA) & Software Development
 
