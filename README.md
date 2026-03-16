@@ -31,13 +31,14 @@
 - ✈ Travelling  
 - 🍳 Cooking  
 - 👨‍👩‍👧‍👦 Fun time with family
-- 
+ 
+  
 
 ## 🏆 Certifications
-
-<a href="https://www.credly.com/badges/YOURBADGELINK">
-<img src="Badge1.jpg" width="120">
+<a href="https://www.credly.com/badges/1012a556-3b7c-4898-a2f4-45c7761704ad/public_url">
+  <img src="Badge1.png.png" width="120">
 </a>
+
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreeraksha277)  
