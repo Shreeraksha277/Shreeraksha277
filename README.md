@@ -8,11 +8,9 @@
 
 ---
 
-## 🚀 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,git,github,vscode" />
-</p>
+## 🧰 Languages & Tools
+- Java
+-  C
 
 ---
 
@@ -56,13 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreeraksha277&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeraksha277&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
